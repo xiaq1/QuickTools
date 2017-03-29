@@ -1,0 +1,4 @@
+How to deploy?
+
+1. cp vimrc ~/.vimrc
+2. cp -ar vim ~/.vim

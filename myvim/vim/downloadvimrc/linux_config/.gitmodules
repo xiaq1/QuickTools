@@ -1,0 +1,9 @@
+[submodule "cmdcheatsheet"]
+	path = cmdcheatsheet
+	url = https://github.com/wklken/cmdcheatsheet.git
+[submodule "k-vim"]
+	path = k-vim
+	url = https://github.com/wklken/k-vim.git
+[submodule "dircolors-solarized"]
+	path = dircolors-solarized
+	url = https://github.com/seebi/dircolors-solarized.git
